@@ -1,0 +1,7 @@
+{
+  "apiUrl": "http://api.birdeye.com",
+  "host": "./",
+  "appPath": "../build",
+  "sourceMapType": "source-map",
+  "buildNo": "1"
+}
